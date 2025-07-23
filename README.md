@@ -140,11 +140,13 @@ Finally, you can view the app on [http://localhosts:3000](http://localhosts:3000
 
 ### :wave: Contributing
 
-<a href="https://github.com/gulhassaan">
-  <img src="https://i.ibb.co/nNwTp792/Me.jpg" alt="Hassaan Gul" width="150" style="border-radius: 50%;"/>
-</a>
-<p align="center"><b>Hassaan Gul</b></p>
-
+<p align="center">
+  <a href="https://github.com/gulhassaan">
+    <img src="https://i.ibb.co/nNwTp792/Me.jpg" alt="Hassaan Gul" width="150" height="150" style="border-radius: 50%;">
+  </a>
+  <br>
+  <b>Hassaan Gul</b>
+</p>
 
 
 
