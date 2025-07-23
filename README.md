@@ -37,11 +37,7 @@
 
 ### :running: Run Locally
 
-#### Clone the project
 
-```bash
-  git@github.com:zwelhtetyan/tiktok-clone.git
-```
 
 #### Go to the project directory
 
@@ -128,13 +124,7 @@ Get your `TOKEN` and `PROJECTID` from sanity studio
 
 > Note: Please make sure you allow the `CORS` orgin in you sanity-studio
 
-#### Run the app
 
-Please make sure you are in the root folder (`/tiktok-clone:`)
-
-```bash
-  yarn dev
-```
 
 Finally, you can view the app on [http://localhosts:3000](http://localhosts:3000)
 
@@ -142,16 +132,10 @@ Finally, you can view the app on [http://localhosts:3000](http://localhosts:3000
 
 <br />
 
-### :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
-
-#### Contributions are always welcome!
 
 <!-- Contact -->
 
 ### Author
 
-- [@zwelhtetyan](https://www.linkedin.com/in/zwelhtetyan/)
+- [@HassaanGul](https://www.linkedin.com/in/hassaan-gul-aa802b215/)
