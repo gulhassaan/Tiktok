@@ -124,7 +124,13 @@ Get your `TOKEN` and `PROJECTID` from sanity studio
 
 > Note: Please make sure you allow the `CORS` orgin in you sanity-studio
 
+#### Run the app
 
+Please make sure you are in the root folder (`/tiktok-clone:`)
+
+```bash
+  yarn dev
+```
 
 Finally, you can view the app on [http://localhosts:3000](http://localhosts:3000)
 
@@ -132,7 +138,15 @@ Finally, you can view the app on [http://localhosts:3000](http://localhosts:3000
 
 <br />
 
+### :wave: Contributing
 
+<a href="https://github.com/gulhassaan">
+  <img src="https://i.ibb.co/nNwTp792/Me.jpg" alt="Hassaan Gul" width="200"/>
+</a>
+<p align="center"><b>Hassaan Gul</b></p>
+
+
+#### Contributions are always welcome!
 
 <!-- Contact -->
 
