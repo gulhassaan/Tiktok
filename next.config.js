@@ -17,8 +17,7 @@ const nextConfig = withPWA({
       {
         protocol: 'https',
         hostname: 'lh3.googleusercontent.com',
-        port: '',
-        search: '',
+        port: ''
       },
     ],
   },
