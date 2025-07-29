@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+
+# build folder
+/.next
+
+
 # Compiled Sanity Studio
 /dist
 
